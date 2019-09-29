@@ -1,0 +1,10 @@
+.metadata
+lab* Debug.cfg
+LinkerScript.ld
+NUCLEO-L476RG.xml
+.settings
+Debug
+inc
+startup
+.cproject
+.project
