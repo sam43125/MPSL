@@ -1,5 +1,6 @@
 .metadata
 lab* Debug.cfg
+lab* Run.cfg
 LinkerScript.ld
 NUCLEO-L476RG.xml
 .settings
